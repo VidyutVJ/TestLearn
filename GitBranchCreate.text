@@ -1,1 +1,10 @@
-Create branch in Web and push the file
+Create branch in Web and push the file name (Branch2)
+
+
+git branch   
+git pull   
+git branch -a
+git checkout Branch2
+git add .  --- add All file to Web
+git commit -m "New Branch"
+git push origin Branch2  
