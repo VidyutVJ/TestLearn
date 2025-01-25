@@ -1,0 +1,17 @@
+Install Git in ur PC
+create a seperate folder for Git file Download
+Open Vs
+Open New Folder "created git Folder to Open"
+Open Terminal in VS
+  type a command in Terminal -- git clone https://github.com/VidyutVJ/TestLearn.git
+  
+  ----Vs to Web----
+  **Create and Delete also same command**
+  first u creat file "Test_2.txt" in VS code to follow the Command
+  git status - to Check the status
+  git add Test_2.txt
+  git commit "Commit massage"
+  git push origin main - main or used web folder name
+  
+  ---- Web to VS ----
+  git pull - Download web file changes to PC
